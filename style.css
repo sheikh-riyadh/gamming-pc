@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    font-family: 'Share Tech', sans-serif;
+    background-color: #222;
+}
+
+p {
+    font-size: 20px;
+    padding-bottom: 30px;
+    text-align: justify;
+    color: #f8f8f8;
+}
+
+h1 {
+    font-size: 50px;
+    color: tomato;
+    margin: 0;
+}
+
+h3 {
+    font-size: 35px;
+    color: tomato;
+}
+
+.hero-peragraph {
+    color: #f8f8f8;
+}
+
+h2 {
+    font-size: 30px;
+    color: tomato;
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: #f8f8f8;
+    font-size: 20px;
+    border-radius: 30px;
+    margin-top: 50px;
+
+}
+
+.common-section {
+    display: flex;
+    padding-bottom: 110px;
+}
+
+.hero-section {
+    padding: 50px 0;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#top-margin {
+    margin-top: 100px;
+}
+
+#why-choose #top-margin {
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+#pc-showcase .half-width {
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.425);
+    border-radius: 10px;
+    margin: 10px 20px;
+    padding-top: 20px;
+}
+
+#pc-showcase .half-width img {
+    width: 40%;
+}
+
+#pc-showcase {
+    padding: 0px 5%;
+}
+
+.showcase {
+    text-align: center;
+    padding: 0px 250px;
+}
+
+#social-followers {
+    margin: 0px 5%;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.425);
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 110px;
+}
+
+#social-followers p {
+    text-align: center;
+}
+
+footer {
+    background-color: #000;
+    border-top: 3px solid tomato;
+    padding: 50px;
+}
+
+footer p {
+    text-align: center;
+}
